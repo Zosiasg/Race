@@ -1,12 +1,10 @@
-# Project Name
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+# Bicycle race
+> This is a very simple piece of java code illustrating basic object-oriented features.
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
-* [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
@@ -17,40 +15,26 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+This programme illustrates creation and basic use cases of objects.
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
-
+IntelliJ IDEA 2022.1.1 (Community Edition)
+Build #IC-221.5591.52, built on May 10, 2022
+Runtime version: 11.0.14.1+1-b2043.45 amd64
+VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.
 
 ## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
-
-
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
-
+Class _Rower_ has two attributes: _wRuchu_ and _prędkość_, and four methods:
+- _start_
+- _stop_
+- _przyspiesz_
+- _wyswietlStan_
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
+The project does not require any particular setup.
 
 ## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
+To run the programme compile and start __
 
 `write-your-code-here`
 
